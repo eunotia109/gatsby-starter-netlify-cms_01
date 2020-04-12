@@ -11,4 +11,4 @@ tags:
 ---
 body text
 
-![alt_text](/img/share2.png "image_title")
+![alt_text](/img/apple-touch-icon.png "image_title")
